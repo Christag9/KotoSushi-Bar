@@ -1,0 +1,186 @@
+/* Background image japanese lettering
+Grey or lighter background
+Nav bar type face 
+ 
+font-family: 'Rubik' ;
+*/
+body {
+
+    background-color: #191a1c;
+
+
+
+}
+
+.header {
+    background-image: url("images/bloom.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    font-family: 'Kaushan Script';
+    font-size: 70pt;
+    text-align: center;
+    padding-left: 40px;
+    color: white;
+}
+
+p.header {
+    font-family: 'Kaushan Script';
+    color: white;
+    text-align: center;
+    font-size: 48pt;
+}
+
+
+h2 {
+    padding-top: 10px;
+    font-family: 'Kaushan Script';
+    color: white;
+    text-align: center;
+    border-bottom: solid;
+    border-width: 100%;
+    font-size: 24px;
+
+}
+
+.about {
+
+    padding-top: 30px;
+    padding-left: 20px;
+    text-align: left;
+
+
+
+}
+
+.aboutimg {
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 10px;
+}
+
+.items {
+    font-family: 'Kaushan Script', fantasy;
+    font-size: 12pt;
+    color: white;
+}
+
+h1 {
+    padding-top: 10px;
+    font-family: 'Kaushan Script';
+    color: white;
+    text-align: center;
+    border-bottom: solid;
+    font-size: 48px;
+}
+
+    {
+    box-sizing: border-box;
+}
+
+.nav {
+    min-height: 35px;
+    padding-bottom: 5px;
+    display: block;
+    border: none;
+    width: 100%;
+    background-color: white;
+    font-family: Slabo, serif;
+    font-size: 30px;
+    color: white;
+    font-weight: lighter;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.footer {
+    min-height: 20px;
+    margin-top: 20px;
+    padding-bottom: 0px;
+    display: block;
+    width: 100%;
+    font-family: Slabo, serif;
+    font-size: 15pt;
+    color: white;
+    font-weight: lighter;
+    font-family: 'Kaushan Script';
+
+}
+
+.navbtn a {
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    margin-bottom: -5px;
+    padding-right: 35px;
+
+}
+
+.navbtn a:hover {
+
+    color: black;
+    background-image: url(images/navsym.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.menu {
+    border: solid;
+    color: white;
+
+}
+
+.form {
+    color: white;
+    font-size: 15pt;
+    padding-left: 5px;
+    text-align: left;
+  
+
+}
+
+.formimg {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+    /* Should be removed. Only for demonstration */
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+.itempic {
+    padding-top: 20px;
+    border-radius: 50%;
+    height: auto;
+
+
+}
+
+.sideimg {
+    padding-top: 20px;
+    padding-left: 50px;
+    align-content: center;
+    image-orientation: center;
+}
+
+</style > </head > <body >
